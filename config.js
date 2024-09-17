@@ -13,7 +13,7 @@ global.owner = [
 ] //Number of owners
 
 global.mods = ['918207075323','918207075323'] 
-global.prems = ['94767939688', '94767939688', '94767939688']
+global.prems = ['919614477116', '919614477116', '94767939688']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 🅷🅴🅽🆃🅰🅸 🅼🅳 💝'
 global.premium = 'true'
-global.packname = '🌸 CreateD By 💝 ＳＵＢＡＲＵ💝' 
-global.author = ' 🎋🐈‍⬛𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐌  ＳＵＢＡＲＵ(๑˃𝐀𝐒𝐈𝐀𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🌈™ 🐳𓃠🎋🕊+919614477***_|  💝' 
+global.packname = '🎋🐈‍⬛𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐌  ＳＵＢＡＲＵ(๑˃𝐀𝐒𝐈𝐀𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🌈™ 🐳𓃠🎋🕊+919614477***_|' 
+global.author = ' 🍂 ≧﹏≦ 🌷🌕🌖🌗🌘🌑🌒🌓🌔🌕' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
